@@ -1,0 +1,15 @@
+version: '3.3'
+services:
+  plantuml:
+    image: bitjourney/plantuml-service:1.4.2
+  honkit:
+    image: node:18.11-bullseye-slim
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/app
+      - node_modules:/app/node_modules
+    tty: true
+    working_dir: /app
+volumes:
+  node_modules:
