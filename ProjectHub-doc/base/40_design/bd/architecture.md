@@ -11,13 +11,13 @@
 - 本ドキュメントは、DB の Entity Layout について記載する。
 
 ## Archtecture
-![アーキテクチャ_ドラフト版](/images/アーキテクチャー概要.png)
+![アーキテクチャ_ドラフト版](/images/)
 
 ## OperationalModel
-![アーキテクチャ_フェーズ1](/images/CFWD全体フロー_フェーズ1.jpg)
+![アーキテクチャ_フェーズ1](/images/)
 
 ## ComponentModel
-![コンポーネントモデル_ドラフト版](/images/CFWD_コンポーネントモデル.png)
+![コンポーネントモデル_ドラフト版](/images/)
 
 ## UML
-![UML_ドラフト版](/images/1_fare_cost.png)
+![UML_ドラフト版](/images/)
