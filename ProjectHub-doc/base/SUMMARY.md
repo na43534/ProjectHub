@@ -8,10 +8,6 @@
 * [機能要求](10_requirement/req_requirement.md)
 * [非機能要求](10_requirement/req_nonfunctional_requirement.md)
 
-## Management
-<!-- 議事録 -->
-<!-- * [](30_management) -->
-
 ## Basic Design
 <!-- 基本設計 -->
 * [システム アーキテクチャ](40_design/bd/architecture.md)
