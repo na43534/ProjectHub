@@ -1,5 +1,9 @@
 # Summary
 
+<!-- 仕様書作成の参考 -->
+<!-- https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8 -->
+<!-- https://qiita.com/Naughty1029/items/96178d17c0232ef5a5ad -->
+
 <!-- トップページ -->
 * [Introduction](README.md)
 * [用語集](00_introduction/ubiquitous.md)
