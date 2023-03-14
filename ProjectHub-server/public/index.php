@@ -1,19 +1,27 @@
 <?php
-
 $siteTitle = 'HOME';
-require('../includes/header.php');
 ?>
 
   <div>
+    <?php
+      require('../includes/header.php');
+    ?>
     <section>
-      <a href="#">ホーム</a>
-      <a href="./signUp.php">ユーザー登録</a>
-      <a href="./login.php">ログイン</a>
-      <a href="./logout.php">ログアウト</a>
-      <a href="./passRemindSend.php">パスワード変更</a>
+      <!-- hero -->
     </section>
+    <section>
+      <!-- about -->
+    </section>
+    <section>
+      <!-- report -->
+    </section>
+    <section>
+      <!-- plan -->
+    </section>
+    <section>
+      <!-- contact -->
+    </section>
+    <?php
+      require('../includes/footer.php');
+    ?>
   </div>
-
-<?php
-  require('../includes/footer.php');
-?>
